@@ -1,0 +1,11 @@
+.searchForm {
+  display: flex;
+  position: absolute;
+  right: 0;
+}
+.myNav {
+    justify-content: space-between;
+    display: flex;
+
+
+}
