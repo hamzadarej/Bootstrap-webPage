@@ -1,11 +1,9 @@
 .searchForm {
   display: flex;
   position: absolute;
-  right: 0;
+  right: 1rem;
 }
-.myNav {
-    justify-content: space-between;
-    display: flex;
-
-
+#myNav {
+  background-color: black;
+  
 }
