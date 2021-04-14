@@ -1,27 +1,18 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-size: larger;
-    
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: larger;
+}
+body {
+  background-color: ;
 }
 .container {
-    display: flex;
-    margin: auto ;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    border: 1px red;
-}
-.header {
-    text-align: center;
-    background-image:url(../img/pic.jpg) ;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    width: 100vw;
-    height: 40vh;
-    border: 1px solid;
-
-    
-    
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 50vh;
+  flex-direction: column;
 }
